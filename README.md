@@ -1,6 +1,6 @@
-# Installation File (Windows Only)
+# AutoSoftwareInstaller (Windows Only)
 
-This is a discord bot for Potato Master's Server. I know weird name.
+This is an Automatic Software Installer for a new PC or a new OS Installation
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ Then follow [these steps](https://superuser.com/a/868341) and add all the files 
 
 ## Usage
 
-Double click the end file (In this case `KidsonX-StockInstaller-SarthakEdition_original.exe` on the computer you want to install the software on.
+Double click the end file (In this case `KidsonX-StockInstaller-SarthakEdition_original.exe`) on the computer you want to install the software on.
 
 ## Support
 
@@ -43,4 +43,4 @@ Please [open an issue](https://github.com/kidsonfilms-python-rules/SoftwareInsta
 We do not accept contributions at this time.
 
 ## License
-We are using the [MIT](https://opensource.org/licenses/MIT) license if you get this code from [GitHub](https//github.com).
+We are using the [MIT](https://opensource.org/licenses/MIT) license if you get this code from [GitHub](https://github.com).
